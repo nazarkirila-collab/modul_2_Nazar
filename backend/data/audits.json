@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1",
+    "stationId": "1",
+    "inspectorName": "Коваленко Олександр Петрович",
+    "auditDate": "2026-09-15",
+    "oilLevelPercent": 82,
+    "vibrationLevelMmS": 3.1,
+    "passed": true,
+    "summary": "Параметри в нормі, обладнання допущено."
+  },
+  {
+    "id": "a2",
+    "stationId": "1",
+    "inspectorName": "Шевченко Ірина Миколаївна",
+    "auditDate": "2026-03-10",
+    "oilLevelPercent": 74,
+    "vibrationLevelMmS": 4.2,
+    "passed": true,
+    "summary": "Замінено повітряний фільтр."
+  },
+  {
+    "id": "a3",
+    "stationId": "2",
+    "inspectorName": "Коваленко Олександр Петрович",
+    "auditDate": "2026-03-02",
+    "oilLevelPercent": 41,
+    "vibrationLevelMmS": 11.8,
+    "passed": false,
+    "summary": "Низький рівень оливи та підвищена вібрація."
+  },
+  {
+    "id": "a4",
+    "stationId": "3",
+    "inspectorName": "Мельник Андрій Васильович",
+    "auditDate": "2026-10-20",
+    "oilLevelPercent": 90,
+    "vibrationLevelMmS": 2.4,
+    "passed": true,
+    "summary": "Станція у справному стані."
+  }
+]

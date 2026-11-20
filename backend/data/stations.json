@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "КС-01 Atlas Copco GA 110",
+    "location": "Цех №1 (складальний)",
+    "operatingPressureBar": 8,
+    "powerKw": 110,
+    "status": "operational",
+    "lastAuditDate": "2026-09-15",
+    "description": "Гвинтовий компресор з частотним регулюванням, осушувач у комплекті."
+  },
+  {
+    "id": "2",
+    "name": "КС-02 Kaeser CSD 125",
+    "location": "Ливарний цех",
+    "operatingPressureBar": 10,
+    "powerKw": 75,
+    "status": "maintenance_required",
+    "lastAuditDate": "2026-03-02",
+    "description": "Підвищена температура оливи, потрібна заміна фільтра сепаратора."
+  },
+  {
+    "id": "3",
+    "name": "КС-03 Ingersoll Rand UP6-30",
+    "location": "Механічний цех",
+    "operatingPressureBar": 7.5,
+    "powerKw": 30,
+    "status": "operational",
+    "lastAuditDate": "2026-10-20",
+    "description": ""
+  },
+  {
+    "id": "4",
+    "name": "КС-04 Remeza ВК-100",
+    "location": "Склад готової продукції",
+    "operatingPressureBar": 13,
+    "powerKw": 7.5,
+    "status": "decommissioned",
+    "lastAuditDate": "2025-05-12",
+    "description": "Виведено з експлуатації після заміни на КС-03."
+  },
+  {
+    "id": "5",
+    "name": "КС-05 Boge S 200",
+    "location": "Дільниця фарбування",
+    "operatingPressureBar": 13,
+    "powerKw": 200,
+    "status": "operational",
+    "lastAuditDate": "2026-08-30",
+    "description": "Резервна установка для лінії порошкового фарбування."
+  }
+]
